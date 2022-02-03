@@ -1,6 +1,3 @@
-#Author - Iftekhar Ahmed Arnab
-#North East University Bangladesh, CSE
-
 def print_in_format(matrix):
     for i in range(9):
         if i%3==0 and i>0:
